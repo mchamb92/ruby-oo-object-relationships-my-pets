@@ -1,4 +1,5 @@
-require_relative 'spec_helper.rb'
+require_relative '../config/environment'
+#'spec_helper.rb'
 
 describe Owner do
 
